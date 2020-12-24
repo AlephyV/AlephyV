@@ -1,16 +1,10 @@
 ###  Sou o Alephy
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
+<a href="https://www.linkedin.com/in/alephy-vinicius-rossi-cardoso-da-silva-b4b79a1a7">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
-<a href="https://www.instagram.com/mabroukimehdi/">
+<a href="https://www.instagram.com/alephycode/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
@@ -28,8 +22,8 @@ Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Softwar
 - 💼 Estou finalizando meu ensino médio + curso técnico em informática;
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar!
 - 📫 Meu e-mail é alephyvrossi@gmail.com se precisar de algo!
-- 📝 Veja meu [Curriculum Vitae](x) para mais informações.
-- 📝 Veja meu [Portfólio](alephyv.github.io/portfolio) para mais informações.
+- 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1MGy8BNEB2JuVoZPM1nwPSb7urhRf6dBK/view?usp=sharing) para mais informações.
+- 📝 Veja meu [Portfólio](https://alephyv.github.io/portfolio/) para mais informações.
 
 
 **Linguagens e Ferramentas:**  
