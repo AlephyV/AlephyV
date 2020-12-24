@@ -1,9 +1,9 @@
 ###  Sou o Alephy
 
-<a href="https://www.linkedin.com/in/alephy-vinicius-rossi-cardoso-da-silva-b4b79a1a7">
+<a target="_blank" href="https://www.linkedin.com/in/alephy-vinicius-rossi-cardoso-da-silva-b4b79a1a7">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/alephycode/">
+<a target="_blank" href="https://www.instagram.com/alephycode/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
