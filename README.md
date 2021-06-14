@@ -16,8 +16,6 @@ Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Softwar
 
 **Sobre minhas habilidades:**
 
-- 👨🏽‍💻Atualmente faço estágio na Ness Law trabalhando com projetos em .NET CORE para mediações jurídicas;
-- 🌱 Estou estudando bastante desenvolvimento de games; 
 - 🤔 Tenho bastante interesse em inteligência artifical e me dou bem no back-end;
 - 💼 Estou finalizando meu ensino médio + curso técnico em informática;
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar!
