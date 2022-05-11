@@ -20,9 +20,7 @@ Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Softwar
 - 💼 Estou finalizando meu ensino médio + curso técnico em informática;
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar!
 - 📫 Meu e-mail é alephyvrossi@gmail.com se precisar de algo!
-- 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1-FeIBaaI2PBs3_nWnFk5_ouznLDSggFP/view?usp=sharing) para mais informações.
-- 📝 Veja meu [Portfólio](https://alephyv.github.io/portfolio/) para mais informações.
-
+- 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1sVFXjTitQvlvb2W1IEH7sagM5KsqiTiv/view?usp=sharing) para mais informações.
 
 **Linguagens e Ferramentas:**  
 
