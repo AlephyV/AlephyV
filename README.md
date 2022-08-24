@@ -10,14 +10,13 @@
 <br />
 <br />
 
-Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Software Engineering** 🚀. Atualmente faço estágio em .NET CORE, e desenvolvo projetos pessoais👨🏽‍💼. 
+Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Software Engineering** 🚀. Atualmente trabalho como analista junior na avade, e desenvolvo projetos pessoais👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Sobre minhas habilidades:**
 
 - 🤔 Tenho bastante interesse em inteligência artifical e me dou bem no back-end;
-- 💼 Estou finalizando meu ensino médio + curso técnico em informática;
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar!
 - 📫 Meu e-mail é alephyvrossi@gmail.com se precisar de algo!
 - 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1sVFXjTitQvlvb2W1IEH7sagM5KsqiTiv/view?usp=sharing) para mais informações.
