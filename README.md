@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Software Engineering** 🚀. Atualmente trabalho como analista junior na avade, e desenvolvo projetos pessoais👨🏽‍💼. 
+Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Software Engineering** 🚀. Atualmente trabalho como Desenvolvedor Pleno na LuizaLbas, e desenvolvo projetos pessoais👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -19,7 +19,7 @@ Olá sou o Alephy Vinicius, sou Desenvolvedor Web e estudo para ser um **Softwar
 - 🤔 Tenho bastante interesse em inteligência artifical e me dou bem no back-end;
 - 💬 Me pergunte sobre qualquer coisa, ficarei feliz em ajudar!
 - 📫 Meu e-mail é alephyvrossi@gmail.com se precisar de algo!
-- 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1sVFXjTitQvlvb2W1IEH7sagM5KsqiTiv/view?usp=sharing) para mais informações.
+- 📝 Veja meu [Curriculo]([https://drive.google.com/file/d/1sVFXjTitQvlvb2W1IEH7sagM5KsqiTiv/view?usp=sharing](https://docs.google.com/document/d/1H81L9T7tUr27Mt6GlsEJwY3ZRa-RiUFgdlFBPtzAODk/edit?usp=sharing)) para mais informações.
 
 **Linguagens e Ferramentas:**  
 
